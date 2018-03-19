@@ -7,7 +7,7 @@ scanf("%d%d",&s,&p);
 square=(s*p);
 for(i=0;i<=square;i++)
 {
-if(square=(i*i))
+if(square==(i*i))
 {
 printf("yes perfect square");
 }
